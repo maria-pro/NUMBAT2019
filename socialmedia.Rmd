@@ -1,0 +1,27 @@
+---
+title: "Social media in academic research"
+author: "Maria Prokofieva"
+date: "03/09/2019"
+output: flexdashboard::flex_dashboard
+---
+    
+Column 
+-------------------------------------
+    
+### Chart 1
+    
+```{r}
+```
+   
+Column {.tabset}
+-------------------------------------
+   
+### Chart 2
+
+```{r}
+```   
+ 
+### Chart 3
+    
+```{r}
+```
